@@ -1,6 +1,6 @@
 ## The Friv Classic Reborn History
 
-Welcome to this big Friv Classic Reborn history. Hope you enjoy.
+Welcome to this small Friv Classic Reborn history. Hope you enjoy.
 
 ### The Amazing Idea
 
@@ -20,3 +20,4 @@ Later, replaced two games "Super Mario Bros, Sonic The Hedgehog" with Papa Louie
 
 When Setting up the first game "I Wanna Win" I setted up the Pages settings and Friv Classic Reborn was globaly born.
 
+![noflash1](https://user-images.githubusercontent.com/83605971/133683071-2872abde-b453-4eb5-8a52-852eea0ea6bb.png) thanks for reading! ![noflash2](https://user-images.githubusercontent.com/83605971/133683133-33278b89-d0bd-4b4c-86d3-47390e9709cc.png)
