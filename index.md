@@ -10,11 +10,13 @@ This is how the challenge would look.
 
 ![winterwonderlandchallenge_ss](https://user-images.githubusercontent.com/83605971/133677461-ce3cf01a-4a99-46db-aa0a-a8776a1f6fba.png)
 
+Days later created a simple keys menu, Looked like this
 
-### Jekyll Themes
+![Screenshot_117](https://user-images.githubusercontent.com/83605971/133679526-f3735648-9a77-4f84-a0e3-142861ccb276.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tsyuay/FrivRebornHistory/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Was also discarded.
 
-### Support or Contact
+Later, replaced two games "Super Mario Bros, Sonic The Hedgehog" with Papa Louie 2 and 3 because of copyright issues and because i wanted to keep the project safe. And later did some patches for the menu and some days after a repository on GitHub named FrivReborn was born.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+When Setting up the first game "I Wanna Win" I setted up the Pages settings and Friv Classic Reborn was globaly born.
+
